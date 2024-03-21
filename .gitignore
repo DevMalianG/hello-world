@@ -1,5 +1,5 @@
-#ignore ALL .md files
-*.md
+#ignore ALL log files
+*.log
 
-#ignore ALL files in the directory named lib
-/lib
+#ignore ALL files in the directory named temp
+/temp
